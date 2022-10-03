@@ -19,6 +19,7 @@
 <p align="left"> 
 - 📄 <a href="https://github.com/hatmer/Thesis/blob/main/writeup.pdf">Master's Thesis</a></br>
 - 📄 <a href="https://www.scythe.io/library/malicious-uses-of-blockchains">Blog post on Malicious uses of Blockchains</a></br>
+- 📄 <a href="https://arxiv.org/pdf/1912.09500.pdf">Paper on Front-Running Protection for Distributed Exchanges</a></br>
 - 📄 <a href="https://github.com/hatmer/bitcoin_overlay_crawler/blob/master/final_paper.pdf">Bitcoin network overlay crawler writeup</a></br>
 
 
