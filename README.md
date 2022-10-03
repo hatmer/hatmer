@@ -17,9 +17,9 @@
 
 <h3 align="left">Selected writing:</h3>
 <p align="left"> 
-- 📄 <a href="https://github.com/hatmer/Thesis/blob/main/writeup.pdf">Master's Thesis (2022)</a></br>
-- 📄 <a href="https://www.scythe.io/library/malicious-uses-of-blockchains">Blog post on Malicious uses of Blockchains (2021)</a></br>
-- 📄 <a href="https://github.com/hatmer/bitcoin_overlay_crawler/blob/master/final_paper.pdf">Bitcoin network overlay crawler writeup (2014)</a></br>
+- 📄 <a href="https://github.com/hatmer/Thesis/blob/main/writeup.pdf">Master's Thesis</a></br>
+- 📄 <a href="https://www.scythe.io/library/malicious-uses-of-blockchains">Blog post on Malicious uses of Blockchains</a></br>
+- 📄 <a href="https://github.com/hatmer/bitcoin_overlay_crawler/blob/master/final_paper.pdf">Bitcoin network overlay crawler writeup</a></br>
 
 
 
