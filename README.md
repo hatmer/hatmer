@@ -1,8 +1,6 @@
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatmer" alt="hatmer" /></a> </p>
 
-<!-- - 👨‍💻 Projects [work in progress]() -->
-
 
 <p align="left">
 </p>
@@ -16,4 +14,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Selected writing:</h3>
+<p align="left"> 
+- 📄 <a href="https://github.com/hatmer/Thesis/blob/main/writeup.pdf">Master's Thesis (2022)</a></br>
+- 📄 <a href="https://www.scythe.io/library/malicious-uses-of-blockchains">Blog post on Malicious uses of Blockchains (2021)</a></br>
+- 📄 <a href="https://github.com/hatmer/bitcoin_overlay_crawler/blob/master/final_paper.pdf">Bitcoin network overlay crawler writeup (2014)</a></br>
+
+
 
