@@ -1,3 +1,13 @@
+<a href="https://www.linkedin.com/in/hannahatmer">
+         <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         >
+</a>    
+<a href="https://leetcode.com/hatmer/">
+         <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+         >
+</a>                                 
+
+
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatmer" alt="hatmer" /></a> </p>
 
